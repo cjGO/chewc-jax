@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "chewc-jax"
+  site-url: "https://cjGO.github.io/chewc-jax"
+  description: "b r e e d i n g sim"
+  repo-branch: main
+  repo-url: "https://github.com/cjGO/chewc-jax"
